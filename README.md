@@ -43,10 +43,10 @@ Nice to meet you, I'm Arslan Sarfraz
 
 <p align="center">
  
-<a href="https://twitter.com/arslansarfraz" target="_blank">
+<!-- <a href="https://twitter.com/arslansarfraz" target="_blank">
 <img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
 
 <a href="https://www.linkedin.com/in/arslan903/" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> -->
     
 </p>
