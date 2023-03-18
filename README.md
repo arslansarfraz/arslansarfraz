@@ -8,7 +8,7 @@ Nice to meet you, I'm Arslan Sarfraz
 - 👩‍💻 Working on Web & App Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
-- 📫 How to reach me : [arslan.codinfog@gmail.com](mailto:arslan.codinfog@gmail.com)
+- 📫 How to reach me : [arslansarfraz114@gmail.com](mailto:arslansarfraz114@gmail.com)
 
 
 <br>
