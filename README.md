@@ -4,10 +4,10 @@ Nice to meet you, I'm Arslan Sarfraz
 
 ## Who Am I? 🤠
 
-- 🤓 Self taught Developer 
+- 🤓 Self-taught Developer 
 - 👩‍💻 Working on Web App Development 
 - 📝 Writing Words, Compiling Code
-- 🎯 Goal : To be a better Developer 
+- 🎯 Goal: To be a better Developer 
 - 📫 How to reach me : [arslansarfraz114@gmail.com](mailto:arslansarfraz114@gmail.com)
 
 
