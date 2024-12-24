@@ -8,7 +8,8 @@ I’m **Arslan** – glad you stopped by!
 - 👩‍💻 Building cool web apps and having fun with code.  
 - 📝 Sometimes I write, sometimes I code, sometimes both!
 - 🎯 Just trying to get a little better every day.  
-- 📫 How to reach me : [arslansarfraz114@gmail.com](mailto:arslansarfraz114@gmail.com)
+- 📫 Let’s connect and make something awesome!
+  [arslansarfraz114@gmail.com](mailto:arslansarfraz114@gmail.com)
 
 
 <br>
