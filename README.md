@@ -1,13 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-Nice to meet you, I'm Arslan Sarfraz
+I’m **Arslan** – glad you stopped by!
 
 ## Who Am I? 🤠
 
-- 🤓 Self-taught Developer 
-- 👩‍💻 Working on Web App Development 
-- 📝 Writing Words, Compiling Code
-- 🎯 Goal: To be a better Developer 
+- 🤓 Self-taught dev figuring things out one bug at a time. 
+- 👩‍💻 Building cool web apps and having fun with code.  
+- 📝 Sometimes I write, sometimes I code, sometimes both!
+- 🎯 Just trying to get a little better every day.  
 - 📫 How to reach me : [arslansarfraz114@gmail.com](mailto:arslansarfraz114@gmail.com)
 
 
