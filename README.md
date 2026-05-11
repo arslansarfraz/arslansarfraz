@@ -1,7 +1,7 @@
-<h1 align="center">Arslan Sarfraz</h1>
+<!-- <h1 align="center">Arslan Sarfraz</h1> -->
 
 <p align="center">
-  Web & mobile developer focused on building clean, performant apps.
+  Web developer building modern apps and exploring AI.
 </p>
 
 <p align="center">
@@ -17,14 +17,10 @@
 
 ### Tech Stack
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,python,git,github" alt="Tech Stack"/>
+  </a>
 </p>
 
 ---
