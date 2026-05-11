@@ -22,12 +22,3 @@
     <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,nodejs,python,git,github" alt="Tech Stack"/>
   </a>
 </p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arslansarfraz&show_icons=true&hide_border=true&theme=react" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslansarfraz&layout=compact&hide_border=true&theme=react" />
-</p>
